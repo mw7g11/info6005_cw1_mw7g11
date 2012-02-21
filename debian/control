@@ -1,6 +1,6 @@
 Source: package
-Section: unknown
-Priority: extra
+Section: x11
+Priority: optional
 Maintainer: Ming Wen <mw7g11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
@@ -10,6 +10,6 @@ Homepage: <insert the upstream URL, if relevant>
 
 Package: package
 Architecture: all
-Depends: ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: ${misc:Depends}, debconf, php5 (>= 5)
+Description: <RSS from BBC news>
+ <info6005_cw1_mw7g11 is a RSS reader for BBC news which written in PHP>
