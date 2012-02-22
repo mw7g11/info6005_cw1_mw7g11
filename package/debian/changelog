@@ -1,0 +1,14 @@
+info6005-cw1-mw7g11 (1.0.0) unstable; urgency=low
+
+  * Initial Release.
+  * Generated debian folder.
+  * Downloaded upstream source code from github.
+
+ -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 21 Feb 2012 15:04:26 +0000
+
+info6005-cw1-mw7g11 (1.0.0) unstable; urgency=low
+
+  * modified php source code.
+  * modified files under "debian" folder
+
+ -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 22 Feb 2012 20:04:26 +0000
