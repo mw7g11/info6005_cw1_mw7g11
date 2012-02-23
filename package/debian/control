@@ -1,4 +1,4 @@
-Source: info6005-cw1-mw7g11
+Source: 6005-cw1-mw7g11
 Section: web
 Priority: optional
 Maintainer: Ming Wen <mw7g11@soton.ac.uk>
@@ -7,8 +7,8 @@ Standards-Version: 3.8.4
 Homepage: https://mw7g11@github.com/mw7g11/info6005_cw1_mw7g11.git
 #Vcs-Git: git@github.com:mw7g11/info6005_cw1_mw7g11.git
 
-Package: info6005-cw1-mw7g11
+Package: 6005-cw1-mw7g11
 Architecture: all
 Depends: ${misc:Depends}, debconf, php5 (>= 5)
 Description: <RSS from BBC news>
- <info6005_cw1_mw7g11 is a RSS reader for BBC news which written in PHP>
+ <6005_cw1_mw7g11 is a RSS reader for BBC news which written in PHP>

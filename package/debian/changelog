@@ -1,35 +1,41 @@
-info6005-cw1-mw7g11 (1.0.5) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.6) unstable; urgency=low
+
+  * modified package name.
+
+ -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 23 Feb 2012 15:11:08 +0000
+
+6005-cw1-mw7g11 (1.0.5) unstable; urgency=low
 
   * modified index.php file for 'no feeds specified'.
 
  -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 23 Feb 2012 11:38:39 +0000
 
-info6005-cw1-mw7g11 (1.0.4) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.4) unstable; urgency=low
 
   * modified rules file and get-news file for changging path.
 
  -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 23 Feb 2012 11:21:48 +0000
 
-info6005-cw1-mw7g11 (1.0.3) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.3) unstable; urgency=low
 
   * modified copyright file.
 
  -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 23 Feb 2012 10:55:20 +0000
 
-info6005-cw1-mw7g11 (1.0.2) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.2) unstable; urgency=low
 
   * Added two folders under "/etc/share" and "/etc".
 
  -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 23 Feb 2012 00:46:26 +0000
 
-info6005-cw1-mw7g11 (1.0.1) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.1) unstable; urgency=low
 
   * modified php source code.
   * modified files under "debian" folder
 
  -- Ming Wen <mw7g11@soton.ac.uk>  Tue, 22 Feb 2012 15:04:09 +0000
 
-info6005-cw1-mw7g11 (1.0.0) unstable; urgency=low
+6005-cw1-mw7g11 (1.0.0) unstable; urgency=low
 
 
   * Initial Release.

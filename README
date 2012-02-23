@@ -1,0 +1,14 @@
+This is a simple rss reader install package which packaged by debian. 
+
+info6005-cw1-mw7g11 : a rss reader which get news feeds from bbc.com.
+
+Maintainer : Ming Wen <mw7g11@soton.ac.uk>
+
+Default installation directory: 
+	index.php, rss_php.php : /usr/share/6005-cw1-mw7g11/
+	get-news               : /usr/bin
+	feeds.conf             : /etc/6005-cw1-mw7g11/
+
+installation guide:
+	Make sure your ubuntu LTS has php5 been already installed, if not, use "apt-get install php5-cli" under the root authenticaton.
+	Open terminal and run command "get-news", you can get the most updated news title from BBC.

@@ -1,0 +1,11 @@
+Package: 6005-cw1-mw7g11
+Version: 1.0.6
+Architecture: all
+Maintainer: Ming Wen <mw7g11@soton.ac.uk>
+Installed-Size: 76
+Depends: debconf, php5 (>= 5)
+Section: web
+Priority: optional
+Homepage: https://mw7g11@github.com/mw7g11/info6005_cw1_mw7g11.git
+Description: <RSS from BBC news>
+ <6005_cw1_mw7g11 is a RSS reader for BBC news which written in PHP>

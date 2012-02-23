@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 23 Feb 2012 15:11:08 +0000
+Source: 6005-cw1-mw7g11
+Binary: 6005-cw1-mw7g11
+Architecture: source all
+Version: 1.0.6
+Distribution: unstable
+Urgency: low
+Maintainer: Ming Wen <mw7g11@soton.ac.uk>
+Changed-By: Ming Wen <mw7g11@soton.ac.uk>
+Description: 
+ 6005-cw1-mw7g11 - <RSS from BBC news>
+Changes: 
+ 6005-cw1-mw7g11 (1.0.6) unstable; urgency=low
+ .
+   * modified package name.
+Checksums-Sha1: 
+ d9f88de690bc2705fd417568a5ba6979970209e6 553 6005-cw1-mw7g11_1.0.6.dsc
+ c2cbd482e65f51f1f872846c94a85fb57ba13677 6062 6005-cw1-mw7g11_1.0.6.tar.gz
+ 8b43a053c66303e726990cf0bce0f91da4e6df9d 6178 6005-cw1-mw7g11_1.0.6_all.deb
+Checksums-Sha256: 
+ 037c62fd5bd239e610630d3195975661786f92f4374eda51708b83322471f9f1 553 6005-cw1-mw7g11_1.0.6.dsc
+ 1161fe77d91e87c069f52ce8e30b75a622870efbe2e356e9bc0571b0c48865ca 6062 6005-cw1-mw7g11_1.0.6.tar.gz
+ 7f82b0441c359d73178a0fa13d8cb631ae93b00497c75488853775ec195b5640 6178 6005-cw1-mw7g11_1.0.6_all.deb
+Files: 
+ 64ff4161b81698770fc3faf2c59d5ce2 553 web optional 6005-cw1-mw7g11_1.0.6.dsc
+ 6fc2ffacfafde3ab4624a08db0e41e83 6062 web optional 6005-cw1-mw7g11_1.0.6.tar.gz
+ fe4fac2f8ce31d0e23304329ccb77882 6178 web optional 6005-cw1-mw7g11_1.0.6_all.deb
