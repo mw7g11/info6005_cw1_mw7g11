@@ -10,13 +10,13 @@
 #export DH_VERBOSE=1
 
 script = $(CURDIR)/usr/bin/get-news
-conf = $(CURDIR)/etc/feeds.conf
-index = $(CURDIR)/usr/share/index.php	
-rss = $(CURDIR)/usr/share/rss_php.php
+conf = $(CURDIR)/etc/6005-cw1-mw7g11/feeds.conf
+index = $(CURDIR)/usr/share/6005-cw1-mw7g11/index.php	
+rss = $(CURDIR)/usr/share/6005-cw1-mw7g11/rss_php.php
 
-target1 = $(CURDIR)/debian/info6005-cw1-mw7g11/usr/share
+target1 = $(CURDIR)/debian/info6005-cw1-mw7g11/usr/share/6005-cw1-mw7g11/
 target2 = $(CURDIR)/debian/info6005-cw1-mw7g11/usr/bin
-target3 = $(CURDIR)/debian/info6005-cw1-mw7g11/etc
+target3 = $(CURDIR)/debian/info6005-cw1-mw7g11/etc/6005-cw1-mw7g11/
 
 build: 
 	dh_testdir
