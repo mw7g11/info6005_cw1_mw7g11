@@ -1,8 +1,8 @@
 Package: info6005-cw1-mw7g11
-Version: 1.0.0
+Version: 1.0.5
 Architecture: all
 Maintainer: Ming Wen <mw7g11@soton.ac.uk>
-Installed-Size: 68
+Installed-Size: 76
 Depends: debconf, php5 (>= 5)
 Section: web
 Priority: optional
