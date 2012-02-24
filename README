@@ -1,6 +1,12 @@
 This is a simple rss reader install package which packaged by debian. 
 
-info6005-cw1-mw7g11 : a rss reader which get news feeds from bbc.com.
+6005-cw1-mw7g11 : a rss reader which get up-to-date news feeds from bbc.com.
+
+upstream code git cloned from: 
+	https://github.com/info6005/6005_cw1_2012.git
+
+Packaging documents are uploaded to 
+	https://mw7g11@github.com/mw7g11/info6005_cw1_mw7g11.git
 
 Maintainer : Ming Wen <mw7g11@soton.ac.uk>
 
@@ -12,3 +18,7 @@ Default installation directory:
 installation guide:
 	Make sure your ubuntu LTS has php5 been already installed, if not, use 'apt-get install php5-cli' under the root authenticaton.
 	Open terminal, use 'sudo -i' to get the root authentication. Then go into the directory where you put the .deb package(e.g /username/Downloads). Use command 'dpkg -i yourpackage.deb' to install the .deb package. When successful, run the command 'get-news' you will find the latest news title from BBC are shown on the screen!
+
+     --------------------------------------------------------------------
+
+Notes: After useing dh_make to generate the debian folder, the debian new maintainers guide and google is very helpful to modify the essential files under it. When packaging, the lintian helps me to solve two problems(cannot put the source code files under '/share' and '/etc' directly.). After several times trying, it works finally! 
