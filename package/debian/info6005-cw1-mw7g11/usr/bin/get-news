@@ -1,4 +1,0 @@
-#!/bin/bash
-#  This file is used to make "get-news" as an command to run the rss reader application.
-
-php /usr/share/6005-cw1-mw7g11/index.php $@
